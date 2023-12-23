@@ -1,4 +1,4 @@
-
+![logo](https://github.com/dasharichandan/dasharichandan/blob/main/Google_Cloud_Covered.jpg)
 <h1 align="center">Hi 👋, I'm Hari Chadan Das</h1>
 <h3 align="center">A passionate Cloud and Data Analyst from India</h3>
 
